@@ -1,0 +1,28 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.calck{
+  /* border: 2px solid ; */
+  box-sizing: border-box;
+  width: 450px;
+
+}
+#inputVield{
+  box-sizing: border-box;
+  border: none;
+  border-radius: 8px;
+  width: 100%;
+  height: 50px;
+  text-align: right;
+  font-size: 40px;
+  
+}
+.number, .operators{
+  box-sizing: border-box;
+  width: 24%;
+  margin: 2.2px;
+}
